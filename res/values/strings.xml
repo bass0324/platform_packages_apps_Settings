@@ -5990,6 +5990,10 @@
    <string name="app_ops_title">App Ops</string>
    <string name="app_ops_summary">Fine-grained application permission controls</string>
 
+   <!-- Firmware build date -->
+   <string name="build_date">Build date</string>
+   <string name="build_date_default">2014-01-01-0000</string>
+   
     <!-- Screen recorder -->
     <string name="screen_recorder_title">Screen recorder</string>
     <string name="screen_recorder_summary">Adjust screen recorder settings</string>
