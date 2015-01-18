@@ -5989,11 +5989,6 @@
    <!-- App Ops -->
    <string name="app_ops_title">App Ops</string>
    <string name="app_ops_summary">Fine-grained application permission controls</string>
-<<<<<<< HEAD
-
-   <!-- Firmware build date -->
-   <string name="build_date">Grogg\'s version</string>
-   <string name="build_date_default">2014-01-01-0000</string>
 
     <!-- Screen recorder -->
     <string name="screen_recorder_title">Screen recorder</string>
@@ -6031,6 +6026,4 @@
     <string name="screen_recorder_bitrate_20000000">20000000</string>
     <string name="screen_recorder_record_audio_title">External audio</string>
     <string name="screen_recorder_record_audio_summary">Record audio from the microphone</string>
-=======
->>>>>>> parent of 955330a... show build name/date and add image
 </resources>
