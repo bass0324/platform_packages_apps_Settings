@@ -45,6 +45,12 @@ import com.android.settings.search.Indexable.SearchIndexProvider;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.android.settings.search.BaseSearchIndexProvider;
+import com.android.settings.search.Indexable.SearchIndexProvider;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Gesture lock pattern settings.
  */

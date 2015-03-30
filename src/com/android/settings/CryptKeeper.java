@@ -702,7 +702,6 @@ public class CryptKeeper extends Activity implements TextView.OnEditorActionList
     }
 
     private void fakeUnlockAttempt(View postingView) {
-        beginAttempt();
         postingView.postDelayed(mFakeUnlockAttemptRunnable, FAKE_ATTEMPT_DELAY);
     }
 
